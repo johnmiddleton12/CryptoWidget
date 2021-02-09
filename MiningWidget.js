@@ -2,10 +2,10 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: deep-green; icon-glyph: magic;
 
-const accessToken = '';
-const farmId = '';
-const workerId = '';
-const minerId = '';
+const accessToken = ''; // hive os access token
+const farmId = ''; // farm id in hive os
+const workerId = ''; // worker id in hive os
+const minerId = ''; // ethermine miner id in hyperlink
 
 
 const baseUrl = `https://api2.hiveos.farm/api/v2`;
